@@ -3,7 +3,7 @@
   <table>
         <tr>
             <td>
-                <img src="docs/shopee-cart-gif.gif" alt="Cart Shopee" width="500">
+                <img src="docs/shopee-cart-gif.gif" alt="Cart Shopee" width="100">
             </td>
             <td>
                 <b>Objetivo:</b>
@@ -13,25 +13,25 @@
         </tr>
     </table>
 
-# Entidades Representadas
+<h2>Entidades Representadas</h2>
 
 ` Carrinho: cart.js`
 ` Itens: item.js`
 
-<h1> Casos de Uso </h1>
+<h2>Casos de Uso</h2>
 
 - 1 - Adicionar item ao carrinho;
 - 2 - Calcular o total do carrinho;
 - 3 - Deletar item do carrinho;
 - 4 - Diminuir unidade de um item do carrinho.
 
-## Stacks Utilizadas
+<h2>Stacks Utilizadas</h2> 
 
 - JavaScript
 - Node.js
 - ESM
 
-## Aprendizado
+<h2>Aprendizado</h2>
 
 - Manipulação de arrays (push, splice, findIndex, forEach, reduce)
 - Estruturação/Modularização de código em módulos (ESM)
